@@ -1,0 +1,17 @@
+.kepek img{
+     width: 50%;
+     height: auto;
+}
+.kepek{
+    display: flex;
+    flex-flow: row wrap;
+    
+}
+@media screen and (max-width:600px) {
+    .kepek{
+        display: flex;
+        flex-flow: row wrap;
+        
+    }
+    
+}
