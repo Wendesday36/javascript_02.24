@@ -10,7 +10,7 @@
 @media screen and (max-width:600px) {
     .kepek{
         display: flex;
-        flex-flow: row wrap;
+        flex-flow: column;
         
     }
     
